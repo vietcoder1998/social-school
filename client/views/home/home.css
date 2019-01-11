@@ -1,0 +1,20 @@
+.inside{
+    box-shadow: 4px 4px 4px gray;
+    border-radius: 10px;
+    height: 500px ;
+    background-color: rgb(202, 216, 243);
+
+}
+
+div > .col{
+    padding: 4px !important;
+}
+
+div > .row{
+
+}
+
+div > .container-fluid{
+    background-color: rgb(217, 190, 243);
+   
+}
